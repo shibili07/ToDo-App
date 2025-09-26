@@ -1,11 +1,12 @@
 
+import TudoApp from "./TodoApp.jsx"
+function App(){
 
-function App() {
-  return (
-    <>
-      
-    </>
-  )
+   return (
+      <>
+       <TudoApp/>
+      </>
+   )
 }
 
 export default App
